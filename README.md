@@ -153,7 +153,7 @@ python3 main.py
 
 ## Example Output
 
-![Mass-Radius Plot](figures/mr_example.png)
+![Mass-Radius Plot](mr_example.png)
 
 ---
 
