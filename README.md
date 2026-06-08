@@ -120,8 +120,8 @@ $$
 
 ## Numerical Setup
 
-- Central pressure range: $ P_c \in [1, 1000] \, \text{MeV·fm}^{-3} $
-- Integration starts near $ r = 0 $ with small non-zero values to avoid singularities
+- Central pressure range: $P_c \in [1, 1000] \, \text{MeV·fm}^{-3}$
+- Integration starts near $r = 0$ with small non-zero values to avoid singularities
 - Integration stops when pressure reaches (approximately) zero, defining the stellar surface
 
 ---
