@@ -127,3 +127,15 @@ $$
 ---
 
 ## Project Structure
+
+```
+neutron-star-tov/
+│
+├── main.py              # Entry point
+├── tov.py               # TOV equations + RK4 solver
+├── eos.py               # Equations of state
+├── plotting.py          # Mass-radius plots
+├── constants.py         # Grid + numerical constants
+│
+├── README.md
+```
