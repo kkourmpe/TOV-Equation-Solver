@@ -129,7 +129,7 @@ $$
 ## Project Structure
 
 ```
-neutron-star-tov/
+TOV_Equation_Solver/
 │
 ├── main.py              # Entry point
 ├── tov.py               # TOV equations + RK4 solver
@@ -138,4 +138,14 @@ neutron-star-tov/
 ├── constants.py         # Grid + numerical constants
 │
 ├── README.md
+```
+---
+
+## Usage
+
+
+```bash
+git clone https://github.com/kkourmpe/TOV_Equation_Solver.git
+cd TOV_Equation_Solver
+python3 main.py
 ```
