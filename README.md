@@ -151,6 +151,12 @@ python3 main.py
 ```
 ---
 
+## Example Output
+
+![Mass-Radius Plot](figures/mr_example.png)
+
+---
+
 ## References
 
 - [1] Tolman, R. C. *Static solutions of Einstein's field equations for spheres of fluid*. In: Phys. Rev. 55, 364 (1939).
