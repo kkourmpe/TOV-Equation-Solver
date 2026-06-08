@@ -155,13 +155,22 @@ python3 main.py
 
 ![Mass-Radius Plot](mr_example.png)
 
+**Figure 1:** Mass–radius relations obtained for different equations of state. The coloured contours show mass and radius measurements related to PSR J0740+6620 [4], PSR J0030+0451 [5], HESS
+    J1731-347 [6], PSR J0437-4715 [7], PSR J1231-1411 [8], and GW170817 [9]. The contours show the $1\sigma$ (darker-inner) and $2\sigma$ (lighter-outer) confidence levels.
+
 ---
 
 ## References
 
-- [1] Tolman, R. C. *Static solutions of Einstein's field equations for spheres of fluid*. In: Phys. Rev. 55, 364 (1939).
-- [2] Oppenheimer J.R. and Volkoff G.M. *On Massive Neutron Cores*. In: Phys. Rev. 55 347-381 (1939).
-- [3] Chatzisavvas K.Ch. et al. “Complexity and neutron star structure”. In: Phys. Lett. A 373, 3901 (2009).
+- [1] Tolman, R. C. *Static solutions of Einstein's field equations for spheres of fluid*, Phys. Rev. 55, 364 (1939).
+- [2] Oppenheimer J.R. and Volkoff G.M. *On Massive Neutron Cores*, Phys. Rev. 55 347-381 (1939).
+- [3] Chatzisavvas K.Ch. et al. *Complexity and neutron star structure*, Phys. Lett. A 373, 3901 (2009).
+- [4] T. Salmi et al., *The Radius of the High-mass Pulsar PSR J0740+6620 with 3.6 yr of NICER Data*, Astrophys. J. Lett. 974, 294 (2024).
+- [5] M. C. Miller et al., *PSR J0030+0451 Mass and Radius from NICER Data and Implications for the Properties on Neutron Star Matter*, Astrophys. J. Lett. 887, L24 (2019).
+- [6] V. Doroshenko, V. Suleimanov, G. Puhlhofer and Andrea Santangelo, *A strangely light neutron star within a supernova remnant*, Nat. Astron. 6, 1444–1451 (2022).
+- [7] D. Choudhury et al., *A NICER View of the Nearest and Brightest Millisecond Pulsar: PSR J0437–4715*, Astrophys. J. Lett. 971, L20 (2024).
+- [8] T. Salmi et al., *A NICER View of PSR J1231-1411: A Complex Case*, Astrophys. J. 976, 58 (2024).
+- [9] B.P. Abbot et al. (LIGO Scientific, Virgo), *GW170817: Observation of Gravitational Waves from a Binary Neutron Star Inspiral*, Phys. Rev. Lett. 119, 161101 (2017).
 - The EOS are taken from Kanakis-Pegios A. *Constraints on neutron stars equation of state using tidal
 deformability of the GW170817 system*. Master Thesis, Aristotle University of
-Thessaloniki, 2019.
+Thessaloniki, 2019. The thesis compiles multiple nuclear interaction models. For the original references of each EOS parametrization, the reader is referred to the bibliography therein.
