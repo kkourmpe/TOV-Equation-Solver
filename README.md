@@ -16,33 +16,33 @@ The structure of neutron stars is encapsulated in the Tolman–Oppenheimer–Vol
 
 The TOV equation for hydrostatic equilibrium is:
 
-\[
+$$
 \frac{dP(r)}{dr}
 = -\frac{G m(r)\rho(r)}{r^2}
 \left(1 + \frac{P(r)}{\rho(r)c^2}\right)
 \left(1 + \frac{4\pi r^3 P(r)}{m(r)c^2}\right)
 \left(1 - \frac{2Gm(r)}{rc^2}\right)^{-1}
-\]
+$$
 
 The enclosed mass satisfies:
 
-\[
+$$
 \frac{dm(r)}{dr} = \frac{4\pi r^2 \varepsilon(r)}{c^2}
-\]
+$$
 
 where $\varepsilon(r)$ is the energy density.
 
 To close the system, an equation of state (EOS) is required:
 
-\[
+$$
 P = P(\varepsilon)
-\]
+$$
 
 or, for a polytropic EOS:
 
-\[
+$$
 P = K \varepsilon^\Gamma
-\]
+$$
 
 ---
 
