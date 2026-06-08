@@ -8,7 +8,7 @@ This project numerically solves the Tolman–Oppenheimer–Volkoff (TOV) equatio
 
 Newtonian hydrostatic equilibrium is inadequate for describing neutron stars, since they are highly compact, relativistic objects in which strong gravity significantly alters the spacetime geometry. The relation between pressure, energy density, and gravity must therefore be treated within the framework of General Relativity.
 
-The structure of neutron stars is encapsulated in the Tolman–Oppenheimer–Volkoff (TOV) equations, which generalize Newtonian gravity to relativistic stellar objects. These equations assume a spherically symmetric, static star in hydrostatic equilibrium and a cold equation of state ($T = 0$ K).
+The structure of neutron stars is encapsulated in the Tolman–Oppenheimer–Volkoff (TOV) equations [1,2], which generalize Newtonian gravity to relativistic stellar objects. These equations assume a spherically symmetric, static star in hydrostatic equilibrium and a cold equation of state ($T = 0$ K).
 
 ---
 
@@ -54,7 +54,7 @@ To solve the TOV system numerically, we transform variables into dimensionless o
 - Mass: solar masses ($M_\odot$)  
 - Radius: km  
 
-The modified TOV equations used in this project are:
+The modified TOV equations used in this project are [3]:
 
 $$
 \frac{d\bar{P}(r)}{dr}
@@ -149,3 +149,13 @@ git clone https://github.com/kkourmpe/TOV_Equation_Solver.git
 cd TOV_Equation_Solver
 python3 main.py
 ```
+---
+
+## References
+
+- [1] Tolman, R. C. *Static solutions of Einstein's field equations for spheres of fluid*. In: Phys. Rev. 55, 364 (1939).
+- [2] Oppenheimer J.R. and Volkoff G.M. *On Massive Neutron Cores*. In: Phys. Rev. 55 347-381 (1939).
+- [3] Chatzisavvas K.Ch. et al. “Complexity and neutron star structure”. In: Phys. Lett. A 373, 3901 (2009).
+- The EOS are taken from Kanakis-Pegios A. *Constraints on neutron stars equation of state using tidal
+deformability of the GW170817 system*. Master Thesis, Aristotle University of
+Thessaloniki, 2019.
