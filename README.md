@@ -110,12 +110,6 @@ k_4 = h f(r_n + h, P_n + k_3, m_n + l_3), \quad
 l_4 = h g(r_n + h, P_n + k_3, m_n + l_3)
 $$
 
-where:
-
-$$
-h = \frac{r_{\text{end}} - r_{\text{center}}}{N}
-$$
-
 ---
 
 ## Numerical Setup
